@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ChevronDown, Search, Menu } from 'lucide-react';
-import logo from '../../dist/assets/logo.svg'; // <-- adjust path to your logo
+import logo from '../../details/assets/logo.svg'; // <-- adjust path to your logo
 
 const Header = () => {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
