@@ -5,16 +5,16 @@ import "slick-carousel/slick/slick-theme.css";
 
 
 // Dummy images (replace with your actual images & logos)
-import img1 from "../../dist/assets/card-1.jpg";
-import img2 from "../../dist/assets/card-2.png";
-import img3 from "../../dist/assets/card-3.png";
+import img1 from "../../details/assets/card-1.jpg";
+import img2 from "../../details/assets/card-2.png";
+import img3 from "../../details/assets/card-3.png";
 
-import logo1 from "../../dist/logo/bmw.svg";
-import logo2 from "../../dist/logo/cummins.svg";
-import logo3 from "../../dist/logo/gm.svg";
-import logo4 from "../../dist/logo/honda.svg";
-import logo5 from "../../dist/logo/jaguar.svg";
-import logo6 from "../../dist/logo/mercedes.svg";
+import logo1 from "../../details/logo/bmw.svg";
+import logo2 from "../../details/logo/cummins.svg";
+import logo3 from "../../details/logo/gm.svg";
+import logo4 from "../../details/logo/honda.svg";
+import logo5 from "../../details/logo/jaguar.svg";
+import logo6 from "../../details/logo/mercedes.svg";
 
 const Middle = () => {
   // Card Data
